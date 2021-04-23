@@ -121,7 +121,7 @@ struct World
 	{
 		player.update(dt);
 
-		if (isnan(player.position.y)) {
+		if (std::isnan(player.position.y)) {
 			player.hit();
 			return;
 		}

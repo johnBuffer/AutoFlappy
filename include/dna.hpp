@@ -3,7 +3,7 @@
 #include <vector>
 #include <iostream>
 #include <bitset>
-
+#include <cstring>
 
 constexpr float MAX_RANGE = 16.0f;
 
