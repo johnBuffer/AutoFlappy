@@ -41,6 +41,6 @@ Detailed explanation [here](https://preshing.com/20170511/how-to-build-a-cmake-b
 
 |Command|Action|
 |---|---|
-|**S**|Toggle slowmotion|
+|**Space**|Toggle slowmotion|
 |**E**|Toggle max speed mode|
 
