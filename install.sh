@@ -1,4 +1,4 @@
 #!/usr/bin/env sh
 
 cmake .
-make
+make -j 2
